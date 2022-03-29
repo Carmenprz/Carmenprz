@@ -3,7 +3,7 @@
 #### I'm a Frontend Web Developer & Designer currently looking for a job. 
 
 ##### NOW
-- ✨ Crafted [Drago psicología](https://dragopsicologia.netlify.app/) website;
+- ✨ Crafted [Drago psicología](https://dragopsicologia.netlify.app/) website.
 
 ##### BIO
 
