@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Frontend Web Developer & Designer currently looking for a job. 
+#### I'm a Frontend Web Developer & Designer currently looking for a remote job. 
 
 ##### NOW
 - ✨ Crafted [Drago psicología](https://dragopsicologia.netlify.app/) website.
