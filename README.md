@@ -1,6 +1,18 @@
+<div align="center">
+  
+![](https://media.giphy.com/media/XLsDo3hdxWpdm/giphy.gif) 
+
+<h2 align="center">Hi there 👋</h2>
+
+  <p align="center">
+     I'm a Frontend Web Developer & Designer currently looking for a remote job. 
+  </p>
+</div>
+
+<!-- 
 ### Hi there 👋
 
-#### I'm a Frontend Web Developer & Designer currently looking for a remote job. 
+#### I'm a Frontend Web Developer & Designer currently looking for a remote job.  -->
 
 ##### NOW
 - ✨ Crafted [Drago psicología](https://dragopsicologia.netlify.app/) website.
