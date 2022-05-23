@@ -10,7 +10,7 @@
 </div>
 
 ##### NOW
-- I'm currently working in the Design System of Preply.
+- ✨ I'm currently working in the Design System at Preply.
 
 ##### BIO
 - 🌱 I’m currently learning about React.js and animations.
